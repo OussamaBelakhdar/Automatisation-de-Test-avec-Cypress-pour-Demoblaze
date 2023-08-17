@@ -4,9 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-        "cypress:open": "cypress open",
-        "cypress:run": "cypress run", 
-        "build": "next build"
+    "cy:open": "cypress open",
+    "cypress:run": "cypress run",
+    "build": "next build",
+    "start": "next start"
   },
   "keywords": [],
   "author": "",
